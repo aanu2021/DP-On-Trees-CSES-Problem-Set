@@ -1,3 +1,6 @@
+// LCA + Difference Array Technique //
+
+
 #include<bits/stdc++.h>
 using namespace std;
 
